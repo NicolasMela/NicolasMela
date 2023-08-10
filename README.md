@@ -1,5 +1,3 @@
-# About Me
-Currently completing my BBA in Business Analytyics and Marketing in Florida International University
 
 # Languages and Tools
 
