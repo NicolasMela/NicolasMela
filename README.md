@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,r,vscode)](https://skillicons.dev)
