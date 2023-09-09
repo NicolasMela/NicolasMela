@@ -1,6 +1,3 @@
-# Data Portfolio
-Bachelor's of Business Administration:
-Business Analytics & Marketing Double Major
 
 # Languages and Tools
 
